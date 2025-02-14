@@ -2,7 +2,7 @@
 
 Este é um projeto Java desenvolvido como parte de um teste técnico, que realiza diversas operações sobre uma lista de funcionários de uma indústria fictícia. O projeto implementa funcionalidades como formatação de dados, agrupamento, ordenação e cálculos salariais.
 
-## 📌 Funcionalidades Implementadas
+## Funcionalidades Implementadas
 
 1. **Classe Pessoa**: Contém `nome` e `dataNascimento`.
 2. **Classe Funcionario**: Extende `Pessoa` e adiciona `salario` e `funcao`.
@@ -18,7 +18,7 @@ Este é um projeto Java desenvolvido como parte de um teste técnico, que realiz
 10. **Calcular a soma total dos salários**.
 11. **Calcular quantos salários mínimos cada funcionário recebe**.
 
-## 🔍 Exemplo de Saída do Programa
+## Exemplo de Saída do Programa
 
 ```txt
 Lista de Todos os Funcionários: 
