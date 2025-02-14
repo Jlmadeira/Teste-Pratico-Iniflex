@@ -11,7 +11,7 @@ Este é um projeto Java desenvolvido como parte de um teste técnico, que realiz
    - Datas no formato **dd/MM/yyyy**.
    - Salários com **separador de milhar e decimal com vírgula**.
 5. **Ajustar salários com aumento de 10%**.
-6. **Agrupar funcionários por função em um **``.
+6. **Agrupar funcionários por função**.
 7. **Listar aniversariantes dos meses de Outubro e Dezembro**.
 8. **Identificar o funcionário mais velho**.
 9. **Ordenar lista por nome**.
